@@ -1,8 +1,9 @@
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/dianxiangwang015-bot/-/main/114514.lua"))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/shlexware/Rayfield/main/source.lua"))()
 
-	Name = "通用",
-	Icon = "rbxassetid://4483345998",
-	PremiumOnly = false
+local Tab = Window:CreateTab({
+    Name = "通用",
+    Icon = "rbxassetid://4483345998",
+    PremiumOnly = false
 })
 
 local Window = Rayfield:CreateWindow({
