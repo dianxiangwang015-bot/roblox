@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/dianxiangwang015-bot/-/main/15.lua"))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/dianxiangwang015-bot/-/main/114514.lua"))()
 
 	Name = "通用",
 	Icon = "rbxassetid://4483345998",
